@@ -1,0 +1,19 @@
+{
+    "name": "Naruto",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "7yg3nFepuJeFXSdt2cr2RmNNyLKtKU2WeNMazZPVXTxp",
+          "share": 100
+        }
+      ]
+    }
+  }
